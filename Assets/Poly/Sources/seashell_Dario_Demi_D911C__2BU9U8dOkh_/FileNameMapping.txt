@@ -1,0 +1,2 @@
+conchiglia.bin -> D38CCB4D176D3B29F53C510D213EC57D.bin
+conchiglia/textures/UVconchiglia.jpg -> 9E16F22B9EFF331D3A64D271C91F94D9.jpg

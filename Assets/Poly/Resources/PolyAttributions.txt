@@ -1,0 +1,127 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Billboard
+Author: sirkitree
+URL: https://poly.google.com/view/71gPkTkcnHg
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: brain coral
+Author: Device Lab
+URL: https://poly.google.com/view/9d8ZBhCAtGT
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Clam
+Author: Poly by Google
+URL: https://poly.google.com/view/65ObbG0O7Ze
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Coral
+Author: Poly by Google
+URL: https://poly.google.com/view/80uVAty6wZ2
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Coral by Annabel
+Author: Annabel Hughes
+URL: https://poly.google.com/view/5iEmFASG5Ti
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: coral q100
+Author: micah O
+URL: https://poly.google.com/view/3iFY7Iu_Wpb
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Coral Reef
+Author: Ashley Alicea
+URL: https://poly.google.com/view/e5KQ7U9e1b7
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Deep Sea Angler Fish
+Author: Cordula Hansen
+URL: https://poly.google.com/view/egy6iroNVQv
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Dolphin
+Author: Poly by Google
+URL: https://poly.google.com/view/4Gkg2wLGJ_p
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Farm, level 1
+Author: Kenny Deriemaeker
+URL: https://poly.google.com/view/bTknPYmeGir
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Farm, level 2
+Author: Kenny Deriemaeker
+URL: https://poly.google.com/view/c_2m0OwOtyA
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: future city
+Author: Michael Pretz
+URL: https://poly.google.com/view/1biyp_4FtMD
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Lobster
+Author: Poly by Google
+URL: https://poly.google.com/view/0IceC4Tzcad
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: low poly city for city
+Author: clayt whitter
+URL: https://poly.google.com/view/7aSJWrWByyk
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Low Poly Poliwag
+Author: Tipatat Chennavasin
+URL: https://poly.google.com/view/bM9u4LILYJw
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Octopus
+Author: Poly by Google
+URL: https://poly.google.com/view/9-b6-yqrwEe
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Power plant, level 2
+Author: Kenny Deriemaeker
+URL: https://poly.google.com/view/0Ipa29gN-iV
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Sea Urchin
+Author: Poly by Google
+URL: https://poly.google.com/view/f4iwEhEP3-d
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: seashell
+Author: Dario Demi (D911C)
+URL: https://poly.google.com/view/2BU9U8dOkh-
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Turtle
+Author: Poly by Google
+URL: https://poly.google.com/view/fklSEvGm1Q8
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Volcano
+Author: Poly by Google
+URL: https://poly.google.com/view/dwSigTeSMCo
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
