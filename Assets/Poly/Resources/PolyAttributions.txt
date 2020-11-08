@@ -24,12 +24,6 @@ URL: https://poly.google.com/view/80uVAty6wZ2
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
-Title: Coral by Annabel
-Author: Annabel Hughes
-URL: https://poly.google.com/view/5iEmFASG5Ti
-License: Creative Commons CC-BY
-https://creativecommons.org/licenses/by/3.0/legalcode
-
 Title: coral q100
 Author: micah O
 URL: https://poly.google.com/view/3iFY7Iu_Wpb
@@ -63,6 +57,12 @@ https://creativecommons.org/licenses/by/3.0/legalcode
 Title: Farm, level 2
 Author: Kenny Deriemaeker
 URL: https://poly.google.com/view/c_2m0OwOtyA
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Flashlight
+Author: Poly by Google
+URL: https://poly.google.com/view/4fbaKPvM0Ss
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
